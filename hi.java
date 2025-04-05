@@ -1,7 +1,6 @@
-Class Demo{
 
-int a=10;
-int b=20;
-
+class hi{
+public static void main (String[] args){
+}
 
 }
